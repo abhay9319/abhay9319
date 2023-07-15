@@ -1,4 +1,4 @@
-### Hi there, 👋 I am Abhay
+### Hi there, 👋 I am Abhay.
 
 <!--
 **abhay9319/abhay9319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
