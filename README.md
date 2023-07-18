@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="abhay-kumar-60a313221 | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="abhay9319 | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="abhay9319 | StackOverflow" width="40px" src="https://img.icons8.com/color/48/stackoverflow.png" />][stackoverflow]
+<br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhay9319&theme=react)
 
