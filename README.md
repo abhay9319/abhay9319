@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ### 📝 Let's connect
 
 [<img align = "left" alt="dhimanabhay66 | Gmail" width="40px" src="https://img.icons8.com/color/48/gmail-new.png"/>][gmail]
-<!--[<img align="left" alt="abhay9319 | Medium" width="40px" src="https://img.icons8.com/nolan/50/medium-new.png" />][medium]-->
 [<img align="left" alt="abhay9319 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="abhay-kumar-60a313221 | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="abhay9319 | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
