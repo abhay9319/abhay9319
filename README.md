@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...,
 -->
 🔭 I am a Front-end Web developer with a passion for building awesome websites.            
 ⚡ Skilled in HTML,CSS and JAVASCRIPT and utilizing modern technologies such as React, and Node.js.        
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/abhay9319
 [instagram]: https://www.instagram.com/abhay9319
 [linkedin]: https://www.linkedin.com/in/abhay-kumar-60a313221/
-<!--[stackoverflow]: https://stackoverflow.com/users/-->
+<!--[stackoverflow]: https://stackoverflow.com/users/--> 
 <br>
 <br>
 
