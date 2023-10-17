@@ -1,4 +1,4 @@
-### Hi there,  👋 I am Abhay Kumar.....\
+### Hi there,  👋 I am Abhay Kumar.....
 
 
 <!--
